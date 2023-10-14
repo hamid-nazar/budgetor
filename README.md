@@ -49,8 +49,13 @@
 
 ## additional configurations (optional)
 
-![Gmail configuration in Config class](./src/main/resources/static/image7.png)
-![MilestoneService class](./src/main/resources/static/image8.png)
+### Gmail configuration in Config class
+
+![](./src/main/resources/static/image7.png)
+
+### MilestoneService class
+
+![](./src/main/resources/static/image8.png)
 
 ## Technology Stack:
 
@@ -62,3 +67,4 @@
 #### Additional notes
 
 - There are many other API Endpoints that are not included in the images
+- Take a look at the source code for a better understanding
