@@ -34,7 +34,7 @@
 ![List of API Endpoints:](./src/main/resources/static/Screenshot 2023-10-14 at 21.47.40.png)
 
 ![Other usefull images that show how the API Endpoint work:](./src/main/resources/static/Screenshot 2023-10-14 at 21.47.53.png)
-![](./src/main/resources/static/Screenshot 2023-10-14 at 21.51.28.png)
+![](src/main/resources/static/Screenshot 2023-10-14 at 21.51.28.png)
 ![](./src/main/resources/static/Screenshot 2023-10-14 at 22.41.22.png)
 ![](./src/main/resources/static/Screenshot 2023-10-14 at 21.51.07.png)
 ![](./src/main/resources/static/Screenshot 2023-10-14 at 21.50.42.png)
