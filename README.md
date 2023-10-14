@@ -11,16 +11,16 @@
 ## Installation
 
 1. Clone the repository and configure application.properties file as shown blow:
-   `
-   server.port=8000
+
+   ````server.port=8000
    spring.datasource.url=jdbc:mysql://localhost:3306/budgetor
    spring.datasource.username=[your-database]
    spring.datasource.password=[your-database-password]
    spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
    spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
-   spring.jpa.hibernate.ddl-auto= update
+   spring.jpa.hibernate.ddl-auto= update```
 
-`
+   ````
 
 2. Navigate to the project directory and then run the following commands:
 
@@ -42,10 +42,10 @@
 ### A bunch of other usefull images that show how the API Endpoint work:
 
 ![](./src/main/resources/static/image2.png)
-![](src/main/resources/static/image3.png)
 ![](./src/main/resources/static/image6.png)
-![](./src/main/resources/static/image4.png)
 ![](./src/main/resources/static/image5.png)
+![](src/main/resources/static/image3.png)
+![](./src/main/resources/static/image4.png)
 
 ## additional configurations (optional)
 
