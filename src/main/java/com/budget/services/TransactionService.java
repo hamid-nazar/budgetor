@@ -25,9 +25,10 @@ public class TransactionService {
 	}
 
 	public Transaction createTransaction(Transaction transaction, String accountId) {
-		Transaction newTransaction = transaction;
-		newTransaction.setAccount(accountService.getAccountById(accountId));
-		return transactionRepo.save(newTransaction);
+		Transaction tr = transactionRepo.save(transaction);
+		tr.setAccountId(accountId);
+
+		return tr;
 
 	}
 
