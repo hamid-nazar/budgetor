@@ -22,18 +22,24 @@
 
 2. Navigate to the project directory and then run the following commands:
 
--cd Budgetor
+- cd Budgetor
 
 - mvn clean package
 - java -jar target/Budgetor-0.0.1-SNAPSHOT.jar
 
 - The API Endppoints owill be accessible at http://localhost:8000
 
-@ Use either a tool like Postman or webrowser to test different API Endpoints
+##### Use either a tool like Postman or a web browser to test different API Endpoints
 
-![List of API Endpoints:](./src/main/resources/static/image1.png)
+## Images that show how the API Endpoints should be used
 
-![Other usefull images that show how the API Endpoint work:](./src/main/resources/static/image2.png)
+### A list of API Endpoints
+
+![](./src/main/resources/static/image1.png)
+
+### Other usefull images that show how the API Endpoint work:
+
+![](./src/main/resources/static/image2.png)
 ![](src/main/resources/static/image3.png)
 ![](./src/main/resources/static/image44.png)
 ![](./src/main/resources/static/image5.png)
