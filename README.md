@@ -47,7 +47,7 @@
 ![](src/main/resources/static/image3.png)
 ![](./src/main/resources/static/image4.png)
 
-## additional configurations (optional)
+## Additional configurations (optional)
 
 ### Gmail configuration in Config class
 
