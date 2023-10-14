@@ -41,7 +41,7 @@
 
 ## additional configurations (optional):
 
-![Gmail configuration in Config class](./src/main/resources/static/Screenshot 2023-10-14 at 23.05.54.png)
+![Gmail configuration in Config class](./src/main/resources/static/image1.png)
 ![MilestoneService class](./src/main/resources/static/Screenshot 2023-10-14 at 23.06.30.png)
 
 ## Technology Stack:
