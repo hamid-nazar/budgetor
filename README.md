@@ -8,9 +8,12 @@
 - Apache Maven
 - MySQL Database Server
 
-## Installation
+## Installation Proecess
 
-1. Clone the repository and configure application.properties file as shown blow:
+1. Clone the repository
+2. Navigate to the project directory: `cd project-directory`
+3. Install dependencies: `mvn clean install`
+4. Configure MySQL database connection in `application.properties` file as shown blow:
 
    ````server.port=8000
    spring.datasource.url=jdbc:mysql://localhost:3306/budgetor
@@ -22,13 +25,9 @@
 
    ````
 
-2. Navigate to the project directory and then run the following commands:
+5. Run the application: either `mvn spring-boot:run` or `jar target/[project-name]-0.0.1-SNAPSHOT.jar`
 
-- cd Budgetor
-- mvn clean install
-- java -jar target/Budgetor-0.0.1-SNAPSHOT.jar
-
-- The API Endppoints owill be accessible at http://localhost:8000
+6. The API Endppoints will be accessible at http://localhost:8000
 
 ##### Use either a tool like Postman or a web browser to test different API Endpoints
 
