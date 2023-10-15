@@ -25,8 +25,7 @@
 2. Navigate to the project directory and then run the following commands:
 
 - cd Budgetor
-
-- mvn clean package
+- mvn clean install
 - java -jar target/Budgetor-0.0.1-SNAPSHOT.jar
 
 - The API Endppoints owill be accessible at http://localhost:8000
