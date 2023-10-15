@@ -25,7 +25,7 @@
 
    ````
 
-5. Run the application: either `mvn spring-boot:run` or `jar target/[project-name]-0.0.1-SNAPSHOT.jar`
+5. Run the application: either `mvn spring-boot:run` or `jar target/[project-directory]-0.0.1-SNAPSHOT.jar`
 
 6. The API Endppoints will be accessible at http://localhost:8000
 
